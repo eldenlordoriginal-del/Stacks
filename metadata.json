@@ -1,0 +1,7 @@
+{
+  "name": "Stacks",
+  "description": "A quiet, curated book discovery tool that turns any topic or skill into real reading recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
